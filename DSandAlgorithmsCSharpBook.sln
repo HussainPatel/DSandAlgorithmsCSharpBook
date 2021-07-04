@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCollection", "SampleCollection\SampleCollection.csproj", "{B565287D-2DDE-409B-A6BB-0AD6ECE87D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysandArrayListsDEmo", "ArraysandArrayListsDEmo\ArraysandArrayListsDEmo.csproj", "{DF46FE5B-6EB4-41E7-A17E-FBC4DF4A51BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B565287D-2DDE-409B-A6BB-0AD6ECE87D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B565287D-2DDE-409B-A6BB-0AD6ECE87D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B565287D-2DDE-409B-A6BB-0AD6ECE87D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B565287D-2DDE-409B-A6BB-0AD6ECE87D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF46FE5B-6EB4-41E7-A17E-FBC4DF4A51BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF46FE5B-6EB4-41E7-A17E-FBC4DF4A51BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF46FE5B-6EB4-41E7-A17E-FBC4DF4A51BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF46FE5B-6EB4-41E7-A17E-FBC4DF4A51BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92EBCBA-D966-44F1-8268-EA4F3EA92096}
+	EndGlobalSection
+EndGlobal
