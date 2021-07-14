@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysandArrayListsDEmo", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListDemo", "LinkedListDemo\LinkedListDemo.csproj", "{6ECB00C9-511D-4A1C-8430-28D4AFFA0BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeQuestions", "LeetCodeQuestions\LeetCodeQuestions.csproj", "{5D9A25AB-547C-4161-91DF-08B249345F33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeQuestions", "LeetCodeQuestions\LeetCodeQuestions.csproj", "{5D9A25AB-547C-4161-91DF-08B249345F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularLinkedListDemo", "CircularLinkedListDemo\CircularLinkedListDemo.csproj", "{566E6FBA-B609-4E8F-B36E-4C04BEA6EF1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5D9A25AB-547C-4161-91DF-08B249345F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D9A25AB-547C-4161-91DF-08B249345F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D9A25AB-547C-4161-91DF-08B249345F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566E6FBA-B609-4E8F-B36E-4C04BEA6EF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566E6FBA-B609-4E8F-B36E-4C04BEA6EF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566E6FBA-B609-4E8F-B36E-4C04BEA6EF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566E6FBA-B609-4E8F-B36E-4C04BEA6EF1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

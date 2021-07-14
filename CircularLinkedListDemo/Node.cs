@@ -2,23 +2,24 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LinkedListDemo
+namespace CircularLinkedListDemo
 {
-    public class Node
+   public class Node
     {
         public object Element { get; set; }
+
         public Node Next { get; set; }
 
         public Node()
         {
-            this.Element = null;
-            this.Next = null;
+            Element = null;
+            Next = null;
         }
 
-        public Node(object _data, Node _link)
+        public Node(object element, Node next)
         {
-            this.Element = _data;
-            this.Next = _link;
+            Element = element;
+            Next = next;
         }
     }
 }
